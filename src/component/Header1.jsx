@@ -17,7 +17,7 @@ export default function Header1() {
             Home
           </NavLink>
           <NavLink to="/about" className='header_navmenu'>
-            About
+            About Us
           </NavLink>
 
 
